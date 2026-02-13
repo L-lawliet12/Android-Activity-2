@@ -1,8 +1,8 @@
 Do drag and drop:- 
 
 
-1. EditText(3) - "Id", "Enter Student Name", "Enter Course", "Enter Marks".
-2. Button(6) - "Insert", "Update", "Delete", "View All".
+1. EditText(4) - "Id", "Enter Student Name", "Enter Course", "Enter Marks".
+2. Button(4) - "Insert", "Update", "Delete", "View All".
 3. TextView - "Result will appear here".
 
 
